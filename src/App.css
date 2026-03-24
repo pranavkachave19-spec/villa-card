@@ -1,0 +1,9 @@
+.app{
+  min-height: 100vh;
+  background:#a4a1a1;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap:30px;
+  padding:40px;
+}
