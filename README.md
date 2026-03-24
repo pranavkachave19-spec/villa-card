@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -18,3 +19,6 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # villa-card
 >>>>>>> e2d47f2331b18419f8286dd6491656eb775b9f0f
+=======
+# villa-card
+>>>>>>> 425145fdb3c6bbd47d80bc78382c4801a69e911b
