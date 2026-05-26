@@ -22,7 +22,7 @@ function Navbar() {
         </li>
 
         <li>
-          <Link to="/mess">Mess</Link>
+          <Link to="/mess">Mess services</Link>
         </li>
 
         <li>
