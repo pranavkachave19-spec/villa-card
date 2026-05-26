@@ -8,7 +8,7 @@ function Navbar() {
 
       {/* Logo */}
       <div className="logo">
-        <Link to="/">your hostel</Link>
+        <Link to="/">Student Hostel</Link>
       </div>
 
       {/* Navigation Links */}
