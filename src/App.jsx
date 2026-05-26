@@ -1,6 +1,7 @@
 import "./App.css";
 import Card from "./Card";
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 function App() {
 
@@ -50,7 +51,9 @@ function App() {
           <Card key={villa.id} {...villa} />
         ))}
       </div>
-    </>
+
+      <Footer />
+  </>
   );
 }
 
