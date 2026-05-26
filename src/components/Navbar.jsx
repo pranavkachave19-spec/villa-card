@@ -8,7 +8,7 @@ function Navbar() {
 
       {/* Logo */}
       <div className="logo">
-        <Link to="/">StayEase</Link>
+        <Link to="/">your hostel</Link>
       </div>
 
       {/* Navigation Links */}
